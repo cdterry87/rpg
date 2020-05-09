@@ -1,0 +1,20 @@
+{
+  "spells": [
+    {
+      "name": "Fireball",
+      "description": "A basic fire spell. May cause extra burning damage to opponent."
+    },
+    {
+      "name": "Freeze",
+      "description": "A basic ice spell. May prevent extra damage from opponent's next attack.'"
+    },
+    {
+      "name": "Shock",
+      "description": "A basic electric spell. May cause opponent to lose their next turn due to paralysis."
+    },
+    {
+      "name": "Gust",
+      "description": "A basic wind spell. May cause extra gold to drop from opponents."
+    }
+  ]
+}
